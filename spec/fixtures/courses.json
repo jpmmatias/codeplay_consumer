@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ruby",
+    "description": "Um curso de Ruby",
+    "code": "RUBYBASIC",
+    "price": "10.0",
+    "enrollment_deadline": "2033-12-22",
+    "instructor": {
+      "id": 1,
+      "name": "John Doe",
+      "email": "fulano@codeplay.com.br",
+      "created_at": "2021-06-02T15:48:11.854-03:00",
+      "updated_at": "2021-06-02T15:48:11.854-03:00"
+    }
+  },
+  {
+    "name": "Ruby on Rails",
+    "description": "Um curso de Ruby on Rails",
+    "code": "RUBYONRAILSBASIC",
+    "price": "10.0",
+    "enrollment_deadline": "2033-12-22",
+    "instructor": {
+      "id": 1,
+      "name": "Jane Doe",
+      "email": "fulano@codeplay.com.br",
+      "created_at": "2021-06-02T15:48:11.854-03:00",
+      "updated_at": "2021-06-02T15:48:11.854-03:00"
+    }
+  }
+]
