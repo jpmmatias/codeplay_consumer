@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "name": "Ruby on Rails",
+  "description": "Um curso de Ruby on Rails",
+  "code": "RUBYONRAILS",
+  "price": "10.0",
+  "enrollment_deadline": "2033-02-20",
+  "created_at": "2021-06-02T15:48:14.937-03:00",
+  "updated_at": "2021-06-10T11:44:22.068-03:00",
+  "instructor_id": 1
+}
