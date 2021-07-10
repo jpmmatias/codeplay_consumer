@@ -1,0 +1,6 @@
+<h1>Inscrições (aka. enrollments)</h1>
+<% @enrollments.each do |enrollment| %>
+  <p><%= enrollment.student[:email]%></p>
+  <p><%= enrollment.course[:code]%></p>
+  <p><%= enrollment.price%></p>
+<%end%>

@@ -1,11 +1,1 @@
-<% @courses.each do |course| %>
-  <%= link_to course.name, course_path(course.code) %>
-  <%= course.description %>
-  <%= course.instructor %>
-<% end %>
-
-<% if @courses.empty? %>
-  Site temporariamente indisponível
-<% end %>
-
-<%= link_to 'Registrar um novo curso', new_course_path %>
+<%= link_to 'Inscrições', enrollments_path%>

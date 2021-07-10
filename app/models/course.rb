@@ -1,7 +1,7 @@
 class Course
   attr_reader :name, :description, :instructor, :code, :price, :enrollment_deadline
 
-  def initialize(name: nil, description: nil, instructor: nil, code: nil, price: nil, 
+  def initialize(name: nil, description: nil, instructor: nil, code: nil, price: nil,
                  enrollment_deadline: nil)
     @name = name
     @description = description

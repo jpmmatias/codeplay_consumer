@@ -1,0 +1,27 @@
+[
+	{
+		"id": 1,
+		"course_id": 1,
+		"created_at": "2021-07-10T17:50:14.158-03:00",
+		"updated_at": "2021-07-10T17:50:14.158-03:00",
+		"price": "10.0",
+		"student_id": 1,
+		"student": {
+			"id": 1,
+			"email": "jane.doe@codeplay.com",
+			"created_at": "2021-07-10T17:49:34.736-03:00",
+			"updated_at": "2021-07-10T17:49:34.736-03:00"
+		},
+		"course": {
+			"id": 1,
+			"name": "Ruby",
+			"description": "Um curso de Ruby",
+			"code": "EExvNVfMX6qgvxrMCDMb",
+			"price": "10.0",
+			"enrollment_deadline": "2021-08-10",
+			"created_at": "2021-07-10T17:44:35.123-03:00",
+			"updated_at": "2021-07-10T17:44:35.123-03:00",
+			"instructor_id": 1
+		}
+	}
+]
